@@ -74,7 +74,7 @@ const translations = {
     
     // Footer
     madeWith: 'Hecho con',
-    andCoffee: 'y mucho café',
+    andCoffee: 'y café',
     backToTop: 'Volver arriba ↑',
     
     // Loading
@@ -144,7 +144,7 @@ const translations = {
     
     // Footer
     madeWith: 'Made with',
-    andCoffee: 'and lots of coffee',
+    andCoffee: 'and coffee',
     backToTop: 'Back to top ↑',
     
     // Loading
